@@ -12,7 +12,7 @@
 
 
 ## Table of Contents
-* [Launch a website using BitWarden](#launch)
+* [Launch a website using BitWarden 😎 ](#launch)
 * [What is Google Workspace?](#what)
 * [Getting Started](#getting-started)
 * [Using Google Chrome](#chrome)
