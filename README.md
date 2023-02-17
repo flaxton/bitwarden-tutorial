@@ -1,4 +1,4 @@
-# Welcome to Google Workspace! <a name="top">
+# Welcome to the BitWarden Password Manager! <a name="top">
 
 <p align="center">
 <table width="100%" align="center" border="0">
@@ -12,7 +12,7 @@
 
 
 ## Table of Contents
-* [Using this Google Workspace guide](#using)
+* [Launch a website using BitWarden](#launch)
 * [What is Google Workspace?](#what)
 * [Getting Started](#getting-started)
 * [Using Google Chrome](#chrome)
@@ -24,7 +24,7 @@
 * [Working with Microsoft Office files](#office)
 * [Additional (free) Google Workspace training](#training)
 
-### <a name="using"></a>Using this Google Workspace guide
+### <a name="launch"></a>Launch a website using BitWarden
 
 This guide is a work-in-progress, to answer anticipated questions about Google Workspace.
 
