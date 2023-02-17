@@ -3,11 +3,9 @@
 <p align="center">
 <table width="100%" align="center" border="0">
 <tr>
-<td width="49%">
-  <img width="300" height="149" src="https://infotechdesign.net/wp-content/uploads/2022/12/google-workspace-logo-512x255-1.png">
+<td width="100%">
+  <img width="237" height="150" src="https://infotechdesign.net/wp-content/uploads/2023/02/Bitwarden_logo.svg-237x150-1.png">
 </td>
-<td width="49%">
-<img width="341" height="144" src="https://infotechdesign.net/wp-content/uploads/2022/12/transparent-Plate108_logo-364x144-1.png"> </td>
 </tr>
 </table>
 </p>
@@ -36,7 +34,7 @@ Click on the topic in the Table of Contents at the top to scroll directly to tha
 
 When done, click on the "Back to Top" link to return to the top of the document and Table of Contents.
 
-Or just scroll down to read everything 👍
+Or just scroll down to read everything
 
 [Back to Top](#top)
 
@@ -179,7 +177,7 @@ Why would I want to "link" to a file instead of attaching it?
 
 Because attaching a large file may be rejected by the sending or receiving email system.
 
-Linking to a file avoids that issue 👍 
+Linking to a file avoids that issue
 
 Instead of including the file, possibly exceeding the size limit, you are just including a link to it. The recipient clicks the link to view/download the file.
 
@@ -257,13 +255,13 @@ Now select "Save as Google ..." where "..." is the type of file - Docs, Sheets, 
 
 ![Save as Google ...](https://greenvillechorale.org/wp-content/uploads/2022/08/convert-file-1.png)
 
-Close the file by closing the tab. Your changes are already saved 😃
+Close the file by closing the tab. Your changes are already saved
 
 In Google Drive, delete the original Microsoft Office file on Google Workspace, by right-clicking and selecting "Remove", so only the Google Workspace version remains.
 
 *(Deleted documents are moved to the Trash, and can be recovered. After a time, the Trash is automatically emptied)*
 
-Congratulations! You've converted the Office format to Google Workspace format, making it much easier to work with going forward 👍
+Congratulations! You've converted the Office format to Google Workspace format, making it much easier to work with going forward
 
 [Back to Top](#top)
 
@@ -281,7 +279,7 @@ I recommend the courses on:
 * Google Docs - word processor documents similar to Microsoft Word
 * Google Sheets - spreadsheets similar to Microsoft Excel
 
-There are other Google Workspace "apps" with training, which you might want to view as well 😃
+There are other Google Workspace "apps" with training, which you might want to view as well
 
 [Back to Top](#top)
 
