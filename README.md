@@ -3,7 +3,7 @@
 <p align="center">
 <table width="100%" align="center" border="0">
 <tr>
-<td width="100%">
+<td width="100%" align="center">
   <img width="237" height="150" src="https://infotechdesign.net/wp-content/uploads/2023/02/Bitwarden_logo.svg-237x150-1.png">
 </td>
 </tr>
