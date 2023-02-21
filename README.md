@@ -75,18 +75,11 @@ In Google Chrome, click on the three vertical dots in the upper right, select Mo
 
 On the Extensions page, click the "hamburger" menu on the top left (3 lines stacked) and click "Open Chrome Web Store".
 
-* Windows users - if you use Microsoft Outlook, save them in a Contact
-* Mac users - open the Contacts app and save them there - they'll also be saved in iCloud
+Search for "Bitwarden". Click on the Bitwarden entry. Click on the button to add to Chrome.
 
-Make the name of the card something like "Plate 108 email account" or some such, in the business name field (not First/Last name)
+Once installed, click on the "puzzle piece" in the Chrome toolbar. Find Bitwarden and click the "push pin" to make it appear in the toolbar.
 
-In the notes of the contact, put the email address and password.
-
-If you don't have the Google Chrome web browser, you can get it here:
-
-[https://google.com/chrome](https://google.com/chrome)
-
-Why use Google Chrome? Because Bitwarden is made by Google, and other web browsers may not work properly.
+Good job, you've installed Bitwarden!
 
 [Back to Top](#top)
 
