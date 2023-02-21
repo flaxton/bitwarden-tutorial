@@ -61,13 +61,19 @@ And as with any Password Manager, you can easily generate secure passwords using
 So, what do I need to get started?
 
 * A Windows or Mac computer
-* The Google Chrome web browser
-* Your Plate 108 email address (something@plate108.com)
-* Your Plate 108 password
+* A web browser like Google Chrome
+* Your Bitwarden email address 
+* Your Bitwarden password
 
 __*You should have received the email address and password already - be sure to save them!*__
 
 If you haven't received them, or misplaced them, contact Fred Laxton.
+
+__*If Bitwarden is already installed, skip forward to [Using Bitwarden](#using)*__
+
+In Google Chrome, click on the three vertical dots in the upper right, select More Tools, Extensions.
+
+On the Extensions page, click the "hamburger" menu on the top left (3 lines stacked) and click "Open Chrome Web Store".
 
 * Windows users - if you use Microsoft Outlook, save them in a Contact
 * Mac users - open the Contacts app and save them there - they'll also be saved in iCloud
