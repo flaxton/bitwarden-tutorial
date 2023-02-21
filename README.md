@@ -87,35 +87,18 @@ Good job, you've installed Bitwarden!
 
 ### <a name="using"></a>Using Bitwarden
 
-__*If*__ you already have a Google/Gmail account, you will want to use a separate profile for the Plate 108 account. 
+#### Here is the easiest way to use Bitwarden.
 
-Here's how to add another profile on __*Chrome on Windows*__:
+When you want to open a website and login:
+* Click on the Bitwarden icon
+* In the search field, start typing the name of the website/service you want to go to
+* When you see the one you want, click the box with an arrow coming out of it, to launch the website in a new tab
+* Now, if the login prompt doesn't show, then look around the menu to find the website login
+* Once the login username/password fields show, either
+  * Click on the Bitwarden icon in the toolbar, then on the entry for the website/service - it will fill in the username/password
+  OR
+  * Right-click inside the username or password field, select Bitwarden, select Autofill and then the entry.
 
-* Click on the userid in the top right of the Chrome toolbar.
-
-![Profile on Chrome Windows](https://greenvillechorale.org/wp-content/uploads/2022/08/chrome-windows-1.png)
-
-Click "Add" to add your Plate 108 Google account, and signon:
-
-![New profile login](https://greenvillechorale.org/wp-content/uploads/2022/08/chrome-windows-2.png)
-
-After giving your Plate 108 email address and password, you'll be asked to turn on sync:
-
-![Turn on sync](https://greenvillechorale.org/wp-content/uploads/2022/08/chrome-windows-3.png)
-
-I recommend you do so, to save your settings, everywhere that you use the Chrome web browser.
-
-To switch to a different Chrome profile (like your personal gmail account), click on the profile picture in the top right of the tool bar:
-
-![Switch profile](https://greenvillechorale.org/wp-content/uploads/2022/08/chrome-windows-4.png)
-
-You may need to add your personal gmail account back in - note in this example mine doesn't show.
-
-Then you can switch profiles by clicking the image and then the profile you want to use.
-
-The procedure on a Mac and Google Chrome is similar, except you click on "Profiles" in the menu bar, then click "Add".
-
-And you switch profiles by clicking on Profiles and then the profile you wish to use.
 
 [Back to Top](#top)
 
