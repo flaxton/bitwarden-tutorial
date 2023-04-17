@@ -69,17 +69,11 @@ __*You should have received the email address and password already - be sure to 
 
 If you haven't received them, or misplaced them, contact Fred Laxton.
 
-__*If Bitwarden is already installed, skip forward to [Using Bitwarden](#using)*__
+If Bitwarden is installed, you will see it in your web browser toolbar, something like this (example is on Google Chrome):
 
-In Google Chrome, click on the three vertical dots in the upper right, select More Tools, Extensions.
+![Chrome toolbar](https://infotechdesign.net/wp-content/uploads/2023/04/bitwarden-chrome-toolbar.png)
 
-On the Extensions page, click the "hamburger" menu on the top left (3 lines stacked) and click "Open Chrome Web Store".
-
-Search for "Bitwarden". Click on the Bitwarden entry. Click on the button to add to Chrome.
-
-Once installed, click on the "puzzle piece" in the Chrome toolbar. Find Bitwarden and click the "push pin" to make it appear in the toolbar.
-
-Good job, you've installed Bitwarden!
+If Bitwarden is *not* installed, contact Fred Laxton.
 
 [Back to Top](#top)
 
