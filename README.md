@@ -144,85 +144,15 @@ Here is the easiest way.
 
 [Back to Top](#top)
 
----
-
-### <a name="drive"></a>Google Drive - Working with files/folders and shared files/folders
-
-Google Drive is a file and folder viewer, like Explorer on Windows or Finder on Mac.
-
-Bear in mind that your default Google Drive area is "My Drive" - these are private files/folders only on your account.
-
-Files and folders shared with other Plate 108 users are all in folders in "Shared with me" in the left sidebar.
-
-![Shared with me](https://greenvillechorale.org/wp-content/uploads/2022/08/drive-1.png)
-
-In "Shared with me", you'll find shared folders, depending on your access level.
-
-Feel free to create files and sub-folders in the existing folders in "Shared with me" as needed.
-
-If there is a need to create another top-level shared folder like these, please contact Fred.
-
-[Back to Top](#top)
-
----
-
-### <a name="office"></a>Working with Microsoft Office files
-
-Bitwarden can easily open any Microsoft Office files, such as Microsoft Word, Microsoft Excel, or Microsoft Powerpoint.
-
-However, going forward, you should plan to use native Bitwarden file format equivalents: Google Docs, Google Sheets, Google Slides.
-
-Why would you do that? 
-
-Because native Bitwarden documents, spreadsheets, etc. have advanced collaboration features that Microsoft Office lacks, such as automatic saving, multiple users editing at the same time, sharing the documents on Bitwarden, backups, quick opening, and others do not need any special software (like Microsoft Office) to access them.
-
-So, how do you do convert a Microsoft Office file to Bitwarden formats?
-
-First, open Google Drive to see your files and folders.
-
-Navigate to the folder where you want to add the Microsoft Office file.
-
-Click the "+ New" button and select "File Upload"
-
-This will open a window to your computer files. Navigate to the file, select it and click "Open"
-
-Bitwarden will upload the file and open it.
-
-You will see the file appear in the folder.
-
-Double-click to open it.
-
-Bitwarden will take a moment to convert it and then open it.
-
-Now select "Save as Google ..." where "..." is the type of file - Docs, Sheets, Slides, etc.
-
-![Save as Google ...](https://greenvillechorale.org/wp-content/uploads/2022/08/convert-file-1.png)
-
-Close the file by closing the tab. Your changes are already saved
-
-In Google Drive, delete the original Microsoft Office file on Bitwarden, by right-clicking and selecting "Remove", so only the Bitwarden version remains.
-
-*(Deleted documents are moved to the Trash, and can be recovered. After a time, the Trash is automatically emptied)*
-
-Congratulations! You've converted the Office format to Bitwarden format, making it much easier to work with going forward
-
-[Back to Top](#top)
-
 --- 
 
 ### <a name="training"></a>Additional (free) Bitwarden training
 
 Bitwarden has free training courses here:
 
-[https://cloud.google.com/training/workspace/#workspace-end-user-learning-path](https://cloud.google.com/training/workspace/#workspace-end-user-learning-path) 
+[How to use the Bitwarden Password Manager](https://vimeo.com/797837257)
 
-I recommend the courses on:
-* Gmail (if you intend to use Gmail in your web browser, not in a program like Outlook or Apple Mail)
-* Google Drive - to manage your files/folders and shared files/folders
-* Google Docs - word processor documents similar to Microsoft Word
-* Google Sheets - spreadsheets similar to Microsoft Excel
-
-There are other Bitwarden "apps" with training, which you might want to view as well
+[Password Manager Browser Extensions](https://bitwarden.com/help/getting-started-browserext/#add-a-login)
 
 [Back to Top](#top)
 
