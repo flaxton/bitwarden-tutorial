@@ -16,7 +16,7 @@
 * [What is Bitwarden?](#what)
 * [Getting Started](#getting-started)
 * [Using Bitwarden](#using)
-* [Gmail](#gmail)
+* [Adding a new Bitwarden login](#adding)
   * [Spam folder](#spam-folder)
   * [What to do when legitimate mail is sent to Spam?](#legitimate)
   * [Linking to a file instead of attaching one](#linking)
@@ -102,80 +102,45 @@ When you want to open a website and login:
 
 ---
 
-### <a name="gmail"></a>Gmail
+### <a name="adding"></a>Adding a new Bitwarden login
 
-What is Gmail? It's the email system for Google accounts. Plate 108 is using Bitwarden, hence Google email, even though the addresses are something@plate108.com.
+So, what do you do to add a new Bitwarden login entry?
 
-**There are two ways to use your email account:**
+Here is the easiest way.
 
-* Use it directly on the website gmail.com, using the Google Chrome web browser
-* Use it in an email program, such as Microsoft Outlook or Apple Mail (all email programs can use it if you have another favorite)
+### IF you do not already have an account on the website:
 
-You can mix and match these, sometimes using an email program like Outlook, other times going to gmail.com and using it there for certain featurs (such as linking to a file, instead of attaching it)
+* Navigate to the website where you want to add the login entry.
+* Find the login page/button and click it.
+* Instead of filling in the login information on the web page:
+	* Click on the Bitwarden icon in the toolbar
+	* Click on the "+" in the top right of the Bitwarden popup window
+	* Fill in your desired username (usually your email address
+	* In the Password field, hit the circle icon on the right of the password field to generate a password
+	* Set the length (I recommend 20)
+	* Check the A-Z, a-z, 0-9, !@#$%^&* checkboxes
+	* Scroll down and check "Avoid ambiguous characters" - this avoids 1 (one) l (lowercase L), 0 (zero) O (capital O) etc.
+	* When it looks good, click "Select" at the top.
+	* Click "Save" to save the login
+	* Now, right click in the username/password field as usual and let it autofill.
+	* Fill out any other required information and create your account.
 
-*(You can also optionally set up email on your Android or iPhone smartphone.)*
+### IF you DO already have an account on the website:
 
-#### <a name="spam-folder"></a>Spam folder
-
-You will have a Spam folder set up automatically, where Google puts anything that looks suspect. The filtering is not as good as it used to be (or perhaps there is more spam), so you should check your Spam folder daily.
-
-If using gmail.com, scroll down and click the down arrow/More to see more folders:
-
-![Folders, showing More](https://greenvillechorale.org/wp-content/uploads/2022/08/spam-1.png)
-
-Now you'll see more additional folders, including Spam:
-
-![Folders expanded, showing Spam](https://greenvillechorale.org/wp-content/uploads/2022/08/spam-2.png)
-
-If using Microsoft Outlook, be sure that "Gmail" is expanded:
-
-![Outlook with Gmail folder closed](https://greenvillechorale.org/wp-content/uploads/2022/08/outlook-spam-1.png)
-
-Then you will see the Spam folder:
-
-![Outlook with Gmail folder showing Spam folder](https://greenvillechorale.org/wp-content/uploads/2022/08/outlook-spam-2.png)
-
-#### <a name="legitimate"></a>What to do when legitimate mail is sent to Spam?
-
-As you check your Spam folder daily, you will find good email sent there.
-
-To do this next step, you *must* login to gmail.com in a web browser if you're using an email program like Outlook.
-
-Open the Spam folder in the left sidebar, check the box(es) on the emails that are good, and click "Not Spam".
-
-This does two things:
-* Moves the email to your Inbox
-* "Trains" Google to not treat it as spam in the future (this is not 100% effective, but it does help)
-
-[Back to Top](#top)
-
-#### <a name="linking"></a>Linking to a file instead of attaching one
-
-Why would I want to "link" to a file instead of attaching it?
-
-Because attaching a large file may be rejected by the sending or receiving email system.
-
-Linking to a file avoids that issue
-
-Instead of including the file, possibly exceeding the size limit, you are just including a link to it. The recipient clicks the link to view/download the file.
-
-To do this:
-* Go to gmail.com in Google Chrome.
-* Click "Compose" to create a new email
-* Fill it out as usual
-* Instead of clicking the paper clip (attach a file), click the Google Drive symbol (a triangle)
-
-![Link to file](https://greenvillechorale.org/wp-content/uploads/2022/08/link-to-file-1.jpg)
-
-You'll go to another screen, showing (by default) "My Files" which are only your private files. If you want to link to a shared file, click on "Shared with me" to see them. 
-
-![Link to file](https://greenvillechorale.org/wp-content/uploads/2022/08/link-to-file-2.jpg)
-
-Select the file in question.
-
-Then be sure the button at the bottom has "Drive link" selected and click "Insert".
-
-When you're satisfied that the email is filled out and the link inserted, click "Send".
+* Navigate to the website where you want to add the login entry.
+* Find the login page/button and click it.
+* Fill out the username and password but do not click the "Login" button
+* Now you are going to add a Bitwarden login for the website:
+	* Click on the Bitwarden icon in the toolbar
+	* Click on the "+" in the top right of the Bitwarden popup window
+	* Your username should already be filled in. If not, type it in.
+	* Your password should already be filled in. If not, type it in. Click the "eye" icon to show it and make sure it is correct.
+	* Click "Save" to save the new Bitwarden login.
+* Now, right-click on the username or password field, select Bitwarden, select Autofill, select the entry and it will fill it in with your saved login.
+* Click "Login".
+* If it worked, you're good!
+* If not, click the Bitwarden button, click the box icon and then Edit.
+* Correct the login entry and try again.
 
 [Back to Top](#top)
 
