@@ -17,11 +17,6 @@
 * [Getting Started](#getting-started)
 * [Using Bitwarden](#using)
 * [Adding a new Bitwarden login](#adding)
-  * [Spam folder](#spam-folder)
-  * [What to do when legitimate mail is sent to Spam?](#legitimate)
-  * [Linking to a file instead of attaching one](#linking)
-* [Google Drive - Working with files/folders and shared files/folders](#drive)
-* [Working with Microsoft Office files](#office)
 * [Additional (free) Bitwarden training](#training)
 
 ### <a name="about">About this guide</a>
