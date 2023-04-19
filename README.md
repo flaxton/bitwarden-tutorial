@@ -93,6 +93,8 @@ When you want to open a website and login:
   OR
   * Right-click inside the username or password field, select Bitwarden, select Autofill and then the entry.
 
+<a href="https://youtube.com/shorts/hf78Vh5B4GE"><img src="https://infotechdesign.net/wp-content/uploads/2023/04/Bitwarden-Autologin-Short-screenshot.jpg"></a>
+
 
 [Back to Top](#top)
 
