@@ -176,5 +176,3 @@ Bitwarden has free training courses here:
 
 [This guide is online at: https://flaxton.github.io/bitwarden-tutorial/](https://flaxton.github.io/bitwarden-tutorial/)
 
----
-
