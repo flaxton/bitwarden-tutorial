@@ -162,8 +162,6 @@ Here are the instructions from Bitwarden:
 
 --- 
 
-
-
 ### <a name="training"></a>Additional (free) Bitwarden training
 
 Bitwarden has free training courses here:
@@ -173,6 +171,8 @@ Bitwarden has free training courses here:
 [Password Manager Browser Extensions](https://bitwarden.com/help/getting-started-browserext/#add-a-login)
 
 [Back to Top](#top)
+
+---
 
 [This guide is online at: https://flaxton.github.io/bitwarden-tutorial/](https://flaxton.github.io/bitwarden-tutorial/)
 
