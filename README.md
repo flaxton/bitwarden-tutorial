@@ -17,6 +17,7 @@
 * [Getting Started](#getting-started)
 * [Using Bitwarden](#using)
 * [Adding a new Bitwarden login](#adding)
+* [Using Bitwarden on iPhone/iPad or Android](#mobile)
 * [Additional (free) Bitwarden training](#training)
 
 ### <a name="about">About this guide</a>
