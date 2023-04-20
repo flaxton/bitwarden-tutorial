@@ -151,6 +151,18 @@ Here is the easiest way.
 
 --- 
 
+### <a name="mobile"></a>Using Bitwarden on iPhone/iPad or Android
+
+Here are the instructions from Bitwarden:
+
+[Password Manager Mobile Apps](https://bitwarden.com/help/getting-started-mobile/)
+
+[Back to Top](#top)
+
+--- 
+
+
+
 ### <a name="training"></a>Additional (free) Bitwarden training
 
 Bitwarden has free training courses here:
