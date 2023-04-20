@@ -40,11 +40,15 @@ Or just scroll down to read everything
 
 Bitwarden is a Password Manager "cloud" service - which means that the URLs (web addresses), userids and passwords are stored on your computer(s) and device(s) as well as on the Bitwarden service.
 
-__*Isn't that unsafe?*__ No, because the URLs, userids and passwords and everything are encrypted on your computer/device, and the encrypted "blob" of data is stored on Bitwarden. They do not have the key, so it is just a collection of computer noise. This also means that you lose access if you lose your password, and Bitwarden cannot help you. This is why we're using the Business version of Bitwarden, with an administrator, to manage the Bitwarden logins for staff.
+__*Isn't that unsafe?*__ No, because the URLs, userids and passwords and everything are encrypted on your computer/device, and the encrypted "blob" of data is stored on Bitwarden. They do not have the key, so it is just a collection of computer noise. This also means that you lose access if you lose your password, and Bitwarden cannot help you. If you are using the Business version of Bitwarden, with an administrator, to manage the Bitwarden logins for staff, that adds additional protection and security.
 
 Accessing Bitwarden is done using a web browser and/or an app on computers, and an app on mobile devices.
 
-The advantage of using Bitwarden Business is that you can share logins with staff, and quickly onboard new staff and also remove password access from staff that leave. So staff can access the required services, but your organization maintains control of the logins and passwords.
+#### Which Bitwarden version to use?
+
+*Bitwarden Personal* is completely free to use if you wish. However, it lacks some advanced features of Bitwarden Business.
+
+The advantage of using *Bitwarden Business* is that you can share logins with staff, and quickly onboard new staff and also remove password access from staff that leave. So staff can access the required services, but your organization maintains control of the logins and passwords.
 
 And as with any Password Manager, you can easily generate secure passwords using Bitwarden, to further enhance your security. Using the same or similar passwords across multiple services puts you at extreme risk of being hacked. The days are long gone when humans can "think up" good passwords, with today's more powerful computers easily able to break them. So using a password generator is essential to stay safe.
 
