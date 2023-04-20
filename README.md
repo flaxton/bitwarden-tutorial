@@ -79,6 +79,7 @@ If Bitwarden is *not* installed, contact Fred Laxton.
 #### Here is the easiest way to use Bitwarden.
 
 When you want to open a website and login:
+
 * Click on the Bitwarden icon
 * In the search field, start typing the name of the website/service you want to go to
 * When you see the one you want, click the box with an arrow coming out of it, to launch the website in a new tab
@@ -91,6 +92,15 @@ When you want to open a website and login:
 #### Click to View the example video:
 
 <a href="https://youtube.com/shorts/hf78Vh5B4GE" target="_blank" rel="noopener noreferrer" ><img src="https://infotechdesign.net/wp-content/uploads/2023/04/Bitwarden-Autologin-Short-screenshot.jpg"></a>
+
+#### The next easiest way to use Bitwarden.
+
+* Click on the your browser Favorite/Bookmark or Desktop shortcut to open the website
+* Now, if the login prompt doesn't show, then look around the menu to find the website login
+* Once the login username/password fields show, either
+  * Click on the Bitwarden icon in the toolbar, then on the entry for the website/service - it will fill in the username/password
+  OR
+  * Right-click inside the username or password field, select Bitwarden, select Autofill and then the entry.
 
 
 [Back to Top](#top)
